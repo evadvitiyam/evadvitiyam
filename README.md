@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @evadvitiyam
+- 👋 Hi, I’m Chandan Kumar
 - 👀 I’m interested in Web Devlopment and AI
 - 🌱 I’m currently learning HTML, CSS, JavaScript, C and Python
 - 💞️ I’m looking to collaborate on ...
